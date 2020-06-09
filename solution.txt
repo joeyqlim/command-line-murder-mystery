@@ -1,0 +1,115 @@
+
+KILLER NAME: JEREMY BOWERS
+
+	612  git clone https://github.com/joeyqlim/command-line-murder-mystery.git
+  613  cd command-line-murder-mystery
+  614  cat instructions
+  615  ls
+  616  cd mystery
+  617  ls
+  618  cd crimescene
+  619  cat crimescene
+  620  ls
+  621  cd interviews
+  622  ls
+  623  cd ..
+  624  ls
+  625  cat people
+  626  cd ..
+  627  ls
+  628  cd mystery
+  629  ls
+  630  cd memberships
+  631  ls
+  632  cat 1
+  633  cat 1.txt
+  634  cat 2.txt
+  635  ls
+  636  cat AAA
+  637  ls
+  638  cd ..
+  639  ls
+  640  cat vehicles
+  641  ls
+  642  cd streets
+  643  ls
+  644  cd ..
+  645  ls
+  646  cat hint1
+  647  cd hint2
+  648  cat hint2
+  649  cd mystery
+  650  grep -w -i "clue" crimescene
+  651  cd memberships
+  652  head -n AAA
+  653  ls
+  654  cat AAA
+  655  ls
+  656  head -n museum.txt
+  657  head -n 20 museum.txt
+  658  cd ..
+  659  cat hint3
+  660  ls
+  661  cat hint4
+  662  cd mystery
+  663  ls
+  664  grep "Annabel" people
+  665  ls
+  666  cd streets
+  667  ls
+  668  cat Buckingham_Place
+  669  grep -i "clue" Buckingham_Place
+  670  cd ..
+  671  ls
+  672  cd ..
+  673  cat hint5
+  674  head -n 40 streets/Hart_Place | tail -n 1
+  675  cd streets
+  676  cd mystery
+  677  head -n 40 streets/Hart_Place | tail -n 1
+  678  ls
+  679  cd interviews
+  680  ls
+  681  cat interview-47246024
+  682  cd ..
+  683  head -n 179 streets/Buckingham_Place | tail -n 1
+  684  cd interviews
+  685  cat interview-699607
+  686  cd ..
+  687  cd vehicles
+  688  ls
+  689  grep "L337" vehicles
+  690  head -n 20 License Plate L337ZR9
+  691  cat License Plate L337ZR9\n
+  692  cat L337ZR9\n
+  693  grep -i "blue" vehicles
+  694  grep -i "blue" vehicles | grep "L337" vehicles
+  695  grep -i "blue.L337" vehicles
+  696  ls
+  697  cat vehicles
+  698  grep "L337" vehicles | head -n 6
+  699  grep "L337" vehicles | grep "Blue" vehicles
+  700  grep 'L337\|Blue\|Honda' vehicles
+  701  cd ..
+  702  cat hint6
+  703  cat hint7
+  704  \tgrep -A 5 "L337" mystery/vehicles\n
+  705  \tgrep "Jeremy" mystery/memberships/AAA\n
+  706  cd myster/memberships
+  707  ls
+  708  cd mystery
+  709  ls
+  710  cd memberships
+  711  ls
+  712  \tgrep "Jeremy" mystery/memberships/Delta\n
+  713  \tgrep "Germuska" mystery/memberships/Delta\n
+  714  \tgrep "Jeremy" mystery/memberships/Delta_SkyMiles\n
+  715  grep "Jeremy" Delta_SkyMiles
+  716  grep "Jeremy" library
+  717  grep "Jeremy" library.txt
+  718  grep "Jeremy" museum.txt
+  719  \tgrep "Germuska" Delta_SkyMIles\n
+  720  \tgrep "Germuska" Delta_SkyMiles\n
+  721  \tgrep "Germuska" AAA\n
+  722  \tgrep "Germuska" library.txt\n
+  723  \tgrep "Germuska" museum.txt\n
